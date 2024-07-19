@@ -1,0 +1,2 @@
+baUUID,batteryLevel,batteryStatus,deviceDiscoveryId,deviceDisplayName,deviceModel,id,identifier,location|altitude,location|floorLevel,location|horizontalAccuracy,location|isInaccurate,location|isOld,location|latitude,location|locationFinished,location|longitude,location|positionType,location|timeStamp,location|verticalAccuracy,modelDisplayName,name,prsId,serialNumber
+NULL,NULL,1,NULL,NULL,NULL,NULL,761C2E03-65BC-40C9-90B4-58E4A95C9F4A,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Test1,NULL,HGGMDPDGP0GV
